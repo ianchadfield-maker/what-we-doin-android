@@ -1,0 +1,4 @@
+<resources>
+ <!-- Replace this URL with your actual HTTPS Render server URL before building. -->
+ <string name="app_url">https://YOUR-SERVER.onrender.com</string>
+</resources>
